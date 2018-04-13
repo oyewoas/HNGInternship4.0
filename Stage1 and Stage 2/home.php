@@ -6,7 +6,7 @@
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <meta http-equiv="X-UA-Compatible" content="ie=edge">
-        <link rel="stylesheet" href="css/homephp.css">
+        <link rel="stylesheet" href="css/home.css">
         <title>HNGInternship 4.0</title>
     </head>
 
