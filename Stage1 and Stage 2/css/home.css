@@ -20,8 +20,12 @@ p {
     font-weight: bold;
     font-size: 25px;
     color: rgb(170, 58, 58);
-    margin-top: 220px;
-    margin-bottom: 240px;
+    margin-top: 150px;
+    margin-bottom: 150px;
+}
+
+em {
+    color: black;
 }
 
 span {
